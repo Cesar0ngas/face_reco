@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+opencv-python
+numpy
+Pillow
+pymongo
+Flask
+tensorflow
+mtcnn
+pickle-mixin
+scikit-learn
